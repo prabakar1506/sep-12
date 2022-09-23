@@ -328,3 +328,30 @@
 	                   filter:none;
 	
 }
+.services{
+
+			height:80vh;
+			
+	
+}
+.serv1{
+	    display:flex;
+		justify-content:center;
+		margin:rem 10rem;
+	    flex-wrap:wrap;
+	   
+	
+}
+.serv{
+	   text-align:center;
+	   margin:0rem 10rem;
+
+	
+	
+}
+.services1{
+	        width:25%;
+			margin:2rem;
+			background-color:#FFFFFF;
+			height:30vh;
+}
